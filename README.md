@@ -1,2 +1,2 @@
 # HSTNet
-The code will be available upon manuscript acceptance.
+The code will be made public after the paper is published.
